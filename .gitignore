@@ -16,7 +16,8 @@
 .settings
 target
 build
-hadoop-dist/
+dependency-reduced-pom.xml
+make-build-debug
 
 hadoop-common-project/hadoop-kms/downloads/
 
